@@ -1,0 +1,11 @@
+{
+  "common": {
+    "hello": "Hola",
+    "world": "mundo",
+    "home": "Inicio",
+    "about": "Acerca de"
+  },
+  "about": {
+    "text": "Next con traducciones next-intl"
+  }
+}

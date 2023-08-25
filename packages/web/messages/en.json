@@ -1,0 +1,11 @@
+{
+  "common": {
+    "hello": "Hello",
+    "world": "world",
+    "home": "Home",
+    "about": "About"
+  },
+  "about": {
+    "text": "Next with next-intl translations"
+  }
+}
