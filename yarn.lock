@@ -2014,14 +2014,14 @@
     tslib "^2.4.0"
 
 "@swc/plugin-styled-components@^1.5.72":
-  version "1.5.72"
-  resolved "https://registry.yarnpkg.com/@swc/plugin-styled-components/-/plugin-styled-components-1.5.72.tgz#3d776732d50555c25c3ef94806d7fe9910d533b1"
-  integrity sha512-g/TzBp2EzQzI11AaqJd/Nd6KrQ4k2bb1R5cWEYouGOKZ1nSnWwXg9nDvJbGM2twH9T6IU2/55NJHJScm5pOVZw==
+  version "1.5.108"
+  resolved "https://registry.yarnpkg.com/@swc/plugin-styled-components/-/plugin-styled-components-1.5.108.tgz#f894f81970cae63aa26a1691f5602bce75148d36"
+  integrity sha512-hTlkcX3lY+FJjrpCjjVv05WuYjyRZB96F1eG12ZT5vq7UCzJnWkx9FRRSfBenPRpP1Y3SPFqWVWbEJdQ7PdzLg==
 
 "@testing-library/dom@^9.0.0":
-  version "9.3.1"
-  resolved "https://registry.yarnpkg.com/@testing-library/dom/-/dom-9.3.1.tgz#8094f560e9389fb973fe957af41bf766937a9ee9"
-  integrity sha512-0DGPd9AR3+iDTjGoMpxIkAsUihHZ3Ai6CneU6bRRrffXMgzCdlNk43jTrD2/5LT6CBb3MWTP8v510JzYtahD2w==
+  version "9.3.3"
+  resolved "https://registry.yarnpkg.com/@testing-library/dom/-/dom-9.3.3.tgz#108c23a5b0ef51121c26ae92eb3179416b0434f5"
+  integrity sha512-fB0R+fa3AUqbLHWyxXa2kGVtf1Fe1ZZFr0Zp6AIbIAzXb2mKbEXl+PCQNUOaq5lbTab5tfctfXRNsWXxa2f7Aw==
   dependencies:
     "@babel/code-frame" "^7.10.4"
     "@babel/runtime" "^7.12.5"
